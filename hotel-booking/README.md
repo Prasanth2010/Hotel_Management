@@ -15,7 +15,7 @@ This is a complete Hotel Booking Application with a layered architecture, encomp
 2. Update the credentials in `src/main/resources/application.properties`:
    ```properties
    spring.datasource.username=root
-   spring.datasource.password=root
+   spring.datasource.password=Crazy@2026
    ```
 3. Add a valid Gmail App Password in `application.properties` to enable email notifications.
 
